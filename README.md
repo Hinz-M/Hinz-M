@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently studying technical computer Science [@Fachhochschule Südwesfahlen](https://www.fh-swf.de/en/international_3/index.php)
+- 🌱 I’m currently studying technical computer Science [@Fachhochschule Südwestfalen](https://www.fh-swf.de/en/international_3/index.php)
 
 <!--
 **Hinz-M/Hinz-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
