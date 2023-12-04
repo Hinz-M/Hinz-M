@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently studying technical computer Science [@Fachhochschule Südwestfalen](https://www.fh-swf.de/en/international_3/index.php)
   
-  ***Language & Skills***
+  **Language & Skills**
   
 -C & C++ \n
 -Python \n
