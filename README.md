@@ -1,10 +1,11 @@
 ### Hi there 👋
 - 🌱 I’m currently studying technical computer Science [@Fachhochschule Südwestfalen](https://www.fh-swf.de/en/international_3/index.php)
       ***Language & Skills***
-  -C & C++
-  -Python
-  -Assambler
-  -
+  
+-C & C++
+-Python
+-Assambler
+
 <!--
 **Hinz-M/Hinz-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
